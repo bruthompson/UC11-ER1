@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TesteCurso" project="senaicursos" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="senaicursos.TesteCurso" time="43.191">
+    <testcase name="testeNavegador" classname="senaicursos.TesteCurso" time="43.191"/>
+  </testsuite>
+</testrun>
